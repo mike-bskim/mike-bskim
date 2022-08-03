@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h2> (Testing)My tech stack 📚 </h2>
 
 ![SQL](https://img.shields.io/badge/-SQL-F05032?style=for-the-badge&logo=SQL&logoColor=#A8B9CC)
-![SQL](https://img.shields.io/badge/-SQL server-F05032?style=for-the-badge&logo=SQL Server&logoColor=#A8B9CC)
+![SQL](https://img.shields.io/badge/-"SQL server"-F05032?style=for-the-badge&logo=SQL Server&logoColor=#A8B9CC)
 ![SQL](https://img.shields.io/badge/-SQL-F05032?style=for-the-badge&logo=SQL&logoColor=#A8B9CC)
 
 ![C](https://img.shields.io/badge/-C-007ACC?style=for-the-badge&logo=C)
