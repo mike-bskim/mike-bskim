@@ -19,16 +19,13 @@ Here are some ideas to get you started:
 <h2> (Testing)My tech stack 📚 </h2>
 
 ![SQL](https://img.shields.io/badge/-SQL-F05032?style=for-the-badge&logo=SQL&logoColor=#A8B9CC)
-![SQL](https://img.shields.io/badge/-"SQL server"-F05032?style=for-the-badge&logo=SQL Server&logoColor=#A8B9CC)
-![SQL](https://img.shields.io/badge/-SQL-F05032?style=for-the-badge&logo=SQL&logoColor=#A8B9CC)
+![SQL](https://img.shields.io/badge/-SQL_Server-273A60?style=for-the-badge&logo=microsoftsqlserver&logoColor=#CC0000)
+![SQL](https://img.shields.io/badge/-My_SQL-000000?style=for-the-badge&logo=mysql&logoColor=#CC0000)
 
 ![C](https://img.shields.io/badge/-C-007ACC?style=for-the-badge&logo=C)
-![DOS](https://img.shields.io/badge/-DOS-%23F7DF1C?style=for-the-badge&logo=dos&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![FLUTTER](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![DART](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
+![FIREBASE](https://img.shields.io/badge/-FIREBASE-FFCA28?style=for-the-badge&logo=FIREBASE&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![FLUTTER](https://img.shields.io/badge/-flutter-007ACC?style=for-the-badge&logo=flutter&logoColor=white)
+![DART](https://img.shields.io/badge/-Dart-222222?style=for-the-badge&logo=dart)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-
-![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 
 <br/>
