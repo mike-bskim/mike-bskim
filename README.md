@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ![MYSQL](https://img.shields.io/badge/-My_SQL-000000?style=for-the-badge&logo=mysql&logoColor=#CC0000)
 
 ![C](https://img.shields.io/badge/-C-007ACC?style=for-the-badge&logo=C)
-![PYTHON](https://img.shields.io/badge/-PYTHON-007ACC?style=for-the-badge&logo=PYTHON)
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+![C]([https://img.shields.io/badge/-C-007ACC?style=for-the-badge&logo=C](https://img.shields.io/badge/VB-Visual%20Basic-orange))
 
 
 ![FIREBASE](https://img.shields.io/badge/-FIREBASE-FFCA28?style=for-the-badge&logo=FIREBASE&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
