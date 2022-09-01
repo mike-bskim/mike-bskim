@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h2> (Testing)My tech stack 📚 </h2>
 
 ![SQL](https://img.shields.io/badge/-SQL-F05032?style=for-the-badge&logo=SQL&logoColor=#A8B9CC)
-![ORACLE](https://img.shields.io/badge/-ORACLE-F05032?style=for-the-badge&logo=ORACLE&logoColor=#A8B9CC)
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 ![SQL_SERVER](https://img.shields.io/badge/-SQL_Server-273A60?style=for-the-badge&logo=microsoftsqlserver&logoColor=#CC0000)
 ![MYSQL](https://img.shields.io/badge/-My_SQL-000000?style=for-the-badge&logo=mysql&logoColor=#CC0000)
 
