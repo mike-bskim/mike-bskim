@@ -29,12 +29,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-5C2D91?style=flat&logo=c&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/C++-5C2D91?style=flat&logo=c++&logoColor=CC6699"/>
 
-<img src="https://img.shields.io/badge/Visual Basic-5C2D91?style=flat&logo='Visual Basic'&logoColor=CC6699"/>
-<img src="https://img.shields.io/badge/C++-5C2D91?style=flat&logo=c++&logoColor=CC6699"/>
-
-
-
-
 ![FIREBASE](https://img.shields.io/badge/-FIREBASE-FFCA28?style=for-the-badge&logo=FIREBASE&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![FLUTTER](https://img.shields.io/badge/-flutter-007ACC?style=for-the-badge&logo=flutter&logoColor=white)
 ![DART](https://img.shields.io/badge/-Dart-222222?style=for-the-badge&logo=dart)
