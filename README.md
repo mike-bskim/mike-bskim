@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 ![SQL_SERVER](https://img.shields.io/badge/-SQL_Server-273A60?style=for-the-badge&logo=microsoftsqlserver&logoColor=#CC0000)
 ![MYSQL](https://img.shields.io/badge/-My_SQL-000000?style=for-the-badge&logo=mysql&logoColor=#CC0000)
 
-![](https://img.shields.io/badge/-C-007ACC?style=for-the-badge&logo=C)
-<img src="https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=C&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=C&logoColor=CC0000"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 ![VB6](https://img.shields.io/badge/VB6-Visual%20Basic-orange)
 <img src="https://img.shields.io/badge/Visual Basic-5C2D91?style=flat&logo='Visual Basic'&logoColor=CC6699"/>
