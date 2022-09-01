@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ![C](https://img.shields.io/badge/-C-007ACC?style=for-the-badge&logo=C)
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img alt="VB6" src ="https://img.shields.io/badge/visualstudio.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="VB6" src ="https://img.shields.io/badge/visualstudio.svg?&style=for-the-badge&logo=visualstudio&logoColor=white"/>
 ![C](https://img.shields.io/badge/VB6-Visual%20Basic-orange)
 
 
