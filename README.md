@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Basic-5C2D91?style=flat&logo='Visual Basic'&logoColor=CC6699"/>
 
-![FIREBASE](https://img.shields.io/badge/-FIREBASE-FFCA28?style=for-the-badge&logo=FIREBASE&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![FLUTTER](https://img.shields.io/badge/-flutter-007ACC?style=for-the-badge&logo=flutter&logoColor=white)
 ![DART](https://img.shields.io/badge/-Dart-222222?style=for-the-badge&logo=dart)
+![FLUTTER](https://img.shields.io/badge/-flutter-007ACC?style=for-the-badge&logo=flutter&logoColor=white)
+![FIREBASE](https://img.shields.io/badge/-FIREBASE-FFCA28?style=for-the-badge&logo=FIREBASE&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 <br/>
