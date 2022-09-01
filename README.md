@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 ![MYSQL](https://img.shields.io/badge/-My_SQL-000000?style=for-the-badge&logo=mysql&logoColor=#CC0000)
 
 ![C](https://img.shields.io/badge/-C-007ACC?style=for-the-badge&logo=C)
+![PYTHON](https://img.shields.io/badge/-PYTHON-007ACC?style=for-the-badge&logo=PYTHON)
+
+
 ![FIREBASE](https://img.shields.io/badge/-FIREBASE-FFCA28?style=for-the-badge&logo=FIREBASE&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![FLUTTER](https://img.shields.io/badge/-flutter-007ACC?style=for-the-badge&logo=flutter&logoColor=white)
 ![DART](https://img.shields.io/badge/-Dart-222222?style=for-the-badge&logo=dart)
