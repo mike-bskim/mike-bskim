@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 <h2> (Testing)My tech stack 📚 </h2>
 
 ![SQL](https://img.shields.io/badge/-SQL-F05032?style=for-the-badge&logo=SQL&logoColor=#A8B9CC)
-![SQL](https://img.shields.io/badge/-SQL_Server-273A60?style=for-the-badge&logo=microsoftsqlserver&logoColor=#CC0000)
-![SQL](https://img.shields.io/badge/-My_SQL-000000?style=for-the-badge&logo=mysql&logoColor=#CC0000)
+![ORACLE](https://img.shields.io/badge/-SQL-F05032?style=for-the-badge&logo=ORACLE&logoColor=#A8B9CC)
+![SQL_SERVER](https://img.shields.io/badge/-SQL_Server-273A60?style=for-the-badge&logo=microsoftsqlserver&logoColor=#CC0000)
+![MYSQL](https://img.shields.io/badge/-My_SQL-000000?style=for-the-badge&logo=mysql&logoColor=#CC0000)
 
 ![C](https://img.shields.io/badge/-C-007ACC?style=for-the-badge&logo=C)
 ![FIREBASE](https://img.shields.io/badge/-FIREBASE-FFCA28?style=for-the-badge&logo=FIREBASE&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
